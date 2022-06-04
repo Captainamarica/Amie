@@ -7,12 +7,12 @@
 
 
 [![Stars](https://img.shields.io/github/stars/Captainamarica/Amie?style=flat-square&color=yellow)](https://github.com/Captainamarica/Amie/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Forks](https://img.shields.io/github/forks/Captainamarica/Amie?style=flat-square&color=orange)](https://github.com/Captainamarica/Amie/fork)
+[![Size](https://img.shields.io/github/repo-size/Captainamarica/Amie?style=flat-square&color=green)](hhttps://github.com/Captainamarica/Amie/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Captainamarica/Amie)   
+[![Contributors](https://img.shields.io/github/contributors/Captainamarica/Amie?style=flat-square&color=green)](https://github.com/Captainamarica/Amie/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Captainamarica/Amie/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Captainamarica/Amie)
 
 
 ## Features
