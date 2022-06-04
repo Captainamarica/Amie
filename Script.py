@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Developers - [🇱🇰 ™ 𝙽𝙸𝙶𝙷𝚃 ⱽⁱˢˢⁱᵒⁿ 𝙱𝙾𝚃𝚂 ✧](https://t.me/NightVission)  
+- Eva Maria is a Night Vission Bot Industrys Project. 
+- Developers - <a href=https://t.me/NightVission>🇱🇰 ™ 𝙽𝙸𝙶𝙷𝚃 ⱽⁱˢˢⁱᵒⁿ 𝙱𝙾𝚃𝚂 ✧</a>  
 
 <b>DEVS:</b>
 - <a href=https://t.me/NA_VA_N_JA_NA1>ɴᴀᴠᴀɴᴊᴀɴᴀ</a>"""
