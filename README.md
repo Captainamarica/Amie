@@ -102,7 +102,7 @@ python3 bot.py
 ```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/NightVissionSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/NightVission
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/NightVission)
 
 ## Credits 
 * [![ɴᴀᴠᴀɴᴊᴀɴᴀ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://t.me/NA_VA_N_JA_NA1)
